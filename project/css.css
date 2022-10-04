@@ -1,0 +1,126 @@
+.body{
+  background-color: rgb(119, 244, 253);
+}
+
+.topnav {
+    background-color: rgb(70, 134, 255);
+    overflow: hidden;
+  }
+  
+  .text {
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-size: 30px; 
+  }
+
+  .text2 {
+    display: block;
+    color: #000000;
+    text-align: center;
+    font-size: 15px; 
+  }
+
+  .image{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+  }
+
+.p{
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 15px 15px;
+
+}
+
+.head{
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 15px 15px;
+
+}
+
+
+.ref{
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 15px 15px;
+
+}
+
+.btn{
+  flex-direction: row;
+    display: flex;
+    gap: 600px;
+  display: flex;
+  justify-content: center;
+  color: #000000;
+  text-align: center;
+  padding: 15px 15px;
+
+}
+ 
+.btn:link, .btn:visited {
+  background-color: #0011ff;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.image2{
+
+  flex-direction: row;
+    display: flex;
+    gap: 222px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+  
+
+}
+
+
+.btn2{
+  display: flex;
+  justify-content: left;
+  color: #000000;
+  text-align: center;
+  padding: 15px 15px;
+
+}
+ 
+.btn2:link, .btn2:visited {
+  background-color: #0011ff;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.btn3{
+  display: flex;
+  justify-content: right;
+  color: #000000;
+  text-align: center;
+  padding: 15px 15px;
+
+}
+ 
+.btn3:link, .btn3:visited {
+  background-color: #0011ff;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
